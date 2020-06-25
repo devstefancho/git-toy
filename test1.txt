@@ -2,3 +2,4 @@ This is vim test
 C1
 modify before C1==
 modify again
+verbose test
