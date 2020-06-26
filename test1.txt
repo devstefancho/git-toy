@@ -1,0 +1,10 @@
+This is vim test
+C1
+modify before C1==
+modify again
+verbose test
+
+Tempor non consequat qui aute aliquip fugiat magna culpa aute fugiat cupidatat nostrud sit. Proident aliqua consectetur proident tempor nisi fugiat laboris consectetur officia ipsum veniam eiusmod ut. Veniam officia quis ad esse dolore non sint. Nulla esse eu nisi occaecat sint nostrud minim nulla occaecat consequat officia et veniam irure. Dolor voluptate incididunt pariatur eiusmod tempor occaecat.
+
+
+add and commit
